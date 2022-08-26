@@ -63,6 +63,16 @@ Ever stuck while solving Sudoku puzzles given in newspapers, magazines, online e
 - **Initial state**
 
 <p align="center">
-  <img src="other/initial_state.png"/>
+  <img src="other/initial_state.PNG" width="400" height="400"/>
 </p>
+
+- **Final state**
+
+<p align="center">
+  <img src="other/final_state.PNG" width="400" height="400"/>
+</p>
+
+- **Output**
+
+  https://user-images.githubusercontent.com/90572543/186939484-83311c05-03c8-4bae-9e95-2fd57caf64a8.mp4
 
