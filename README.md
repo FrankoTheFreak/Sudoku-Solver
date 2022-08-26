@@ -28,18 +28,30 @@ The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, ro
 
 ## Requirements 
 
-- Install latest version of python from here: <a href="https://www.python.org/downloads/" target="_blank">Download</a> 📥	
+- Install latest version of **Python** from here: <a href="https://www.python.org/downloads/" target="_blank">Download</a> 📥	
 
-- Install respective python modules by using following commands:
+- Install **Pygame** library by using following command:
 
   ```bash
-    pip install opencv-python
+    pip install pygame
   ```
   
+## Deployment
+  
+- Clone this repository using
+
   ```bash
-    pip install matplotlib
+    git clone 
   ```
   
+  **OR** 
+
+- Zip **download** the repository and **extract** it's contents.
+
+## Execution
+
+- Run this command in your terminal
+
   ```bash
-    pip install numpy
+    git clone 
   ```
