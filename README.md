@@ -4,7 +4,9 @@
   <img src="other/thumbnail.jpg" width="550" height="500"/>
 </p>
 
-### Solving Sudoku can be frustating unless you have a script that can solve it for you :smile:
+## Solving Sudoku can be frustating unless you have a script that can solve it for you
+
+  https://user-images.githubusercontent.com/90572543/186939484-83311c05-03c8-4bae-9e95-2fd57caf64a8.mp4
 
 ## Introduction
 
@@ -85,10 +87,6 @@ This script visits all the empty cells in some order,filling the digits incremen
 <p align="center">
   <img src="other/final_state.PNG" width="400" height="400"/>
 </p>
-
-- **Output**
-
-  https://user-images.githubusercontent.com/90572543/186939484-83311c05-03c8-4bae-9e95-2fd57caf64a8.mp4
 
 ## Conclusion
 
