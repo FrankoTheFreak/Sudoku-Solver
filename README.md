@@ -4,7 +4,8 @@
   <img src="other/thumbnail.jpg" width="550" height="500"/>
 </p>
 
-## Solving Sudoku can be frustating unless you have a script that can solve it for you
+## Solving Sudoku can be frustating :persevere:
+## Unless you have a script that can solve it for you :smile:
 
   https://user-images.githubusercontent.com/90572543/186939484-83311c05-03c8-4bae-9e95-2fd57caf64a8.mp4
 
