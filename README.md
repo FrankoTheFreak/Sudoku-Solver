@@ -44,7 +44,7 @@ This script visits all the empty cells in some order,filling the digits incremen
 
 ## Requirements 
 
-- Install latest version of **Python** from here: <a href="https://www.python.org/downloads/" target="_blank">Download</a> 📥	
+- Install latest version of **Python** from here: <a href="https://www.python.org/downloads/" target="_blank">Download</a> 	
 
 - Install **Pygame** library by using following command:
 
