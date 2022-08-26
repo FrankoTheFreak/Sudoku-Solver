@@ -4,9 +4,7 @@
   <img src="other/thumbnail.jpg" width="500" height="500"/>
 </p>
 
-## Solving Sudoku can be frustating unless you have a script that can solve it for you
-
-Ever stuck while solving Sudoku puzzles given in newspapers, magazines, online etc. then this project helps you solve any Sudoku puzzle by using recursion and backtracking algorithm implemented by using Python and visualization.
+### Solving Sudoku can be frustating unless you have a script that can solve it for you
 
 ## What is Sudoku?
 
@@ -19,12 +17,16 @@ The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, ro
 - Any column contains more than one of the same number from 1 to 9
 - Any 3×3 grid contains more than one of the same number from 1 to 9
 
+## About
+
+Ever stuck while solving Sudoku puzzles given in newspapers, magazines, online etc. then this project helps you solve any Sudoku puzzle by using recursion and backtracking algorithm implemented by using Python and visualization.
+
 ## Controls
 
 |   Keys       |   Action                          |
 | :----------- | :-------------------------------- |
-|   `SPACE`    |   Solves Sudoku by visualizing    |
-|     `Q`      |   Quits Sudoku GUI                |
+|   `sPACE`    |   Solves Sudoku by visualizing    |
+|     `q`      |   Quits Sudoku GUI                |
 
 ## Requirements 
 
@@ -41,7 +43,7 @@ The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, ro
 - Clone this repository using
 
   ```bash
-    git clone 
+    git clone https://github.com/FrankoTheFreak/Sudoku-Solver.git
   ```
   
   **OR** 
@@ -53,5 +55,14 @@ The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, ro
 - Run this command in your terminal
 
   ```bash
-    git clone 
+    python sudokusolver.py
   ```
+  
+## Results
+
+- **Initial state**
+
+<p align="center">
+  <img src="other/initial_state.png"/>
+</p>
+
