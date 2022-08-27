@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver Using Backtracking Algorithm
 
 <p align="center">
   <img src="other/thumbnail.jpg" width="550" height="500"/>
