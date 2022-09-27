@@ -1,7 +1,7 @@
 # Sudoku Solver Using Backtracking Algorithm
 
 <p align="center">
-  <img src="other/thumbnail.jpg" width="550" height="500"/>
+  <img src="other/thumbnail.jpg" width="60%" height="20%"/>
 </p>
 
 ## Solving Sudoku can be frustating :persevere:
